@@ -40,5 +40,11 @@ You can convert your website into a mobile application and use it from your phon
 -----
 
 ### <p align="center">📌 Ekran Görüntüleri 📌</p><br>
-![Web](https://raw.githubusercontent.com/enessaltunbas/NodeMcu-Smart-Home-IOT/main/web.png)<br>
-![Windows](https://raw.githubusercontent.com/enessaltunbas/NodeMcu-Smart-Home-IOT/main/win.png)
+![AnaSayfa](https://github.com/oozen9/Hastane-Yonetim-Sistemi-MSSQL/blob/main/ScreenShots/1.png)<br>
+![HastaGiris](https://github.com/oozen9/Hastane-Yonetim-Sistemi-MSSQL/blob/main/ScreenShots/2.png)<br>
+![HastaSayfa](https://github.com/oozen9/Hastane-Yonetim-Sistemi-MSSQL/blob/main/ScreenShots/3.png)<br>
+![DoktorGiris](https://github.com/oozen9/Hastane-Yonetim-Sistemi-MSSQL/blob/main/ScreenShots/4.png)<br>
+![DoktorSayfa](https://github.com/oozen9/Hastane-Yonetim-Sistemi-MSSQL/blob/main/ScreenShots/5.png)<br>
+![Duyuru](https://github.com/oozen9/Hastane-Yonetim-Sistemi-MSSQL/blob/main/ScreenShots/6.png)<br>
+![SekreterSayfa](https://github.com/oozen9/Hastane-Yonetim-Sistemi-MSSQL/blob/main/ScreenShots/7.png)<br>
+![RandevuListesi](https://github.com/oozen9/Hastane-Yonetim-Sistemi-MSSQL/blob/main/ScreenShots/8.png)
