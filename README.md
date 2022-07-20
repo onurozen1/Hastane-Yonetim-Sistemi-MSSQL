@@ -23,19 +23,15 @@ Bu projede MSSQL kullanılmıştır. Gerekli veri tabanı dosyalarını yerlerin
 <br>
 <p align="center">
 <strong>
-You can update the codes over your wifi network, thanks to the code you will upload to your nodemcu programming card, which has an Esp8266 wifi card.
+Hastalar sisteme giriş yapıp doktor, branş ve şikayet belirterek randevu alabilirler.
 <br>
 <p align="center">
 <strong>
-You can send the codes I gave to your nodemcu card and make certain pin connections and control 4 relays and 1 rgb led on the web.
+Doktorlar sisteme giriş yapıp hasta şikayetlerini, randevularını görebilir ve duyuruları inceleyebilir.
 <br>
 <p align="center">
 <strong>
-After you write your ip address to the required place in the winform application I have given and compile, you can start using the buttons and led controller.
-<br>
-<p align="center">
-<strong>
-You can convert your website into a mobile application and use it from your phone.
+Sekreterler sisteme giriş yapıp randevu, duyuru oluşturabilir, düzenleyebilir ve görüntüleyebilir.
 
 -----
 
