@@ -1,8 +1,8 @@
 # <p align="center">  Hastane Yönetim ve Takip Sistemi - MSSQL</p>
-### <p align="center">Hastane Yönetimi ve Takibi için MSSQL Destekli Yönetim Yazılımı</p>
 
 <p align="center">C# - Windows Form</p>
 <p align="center">MSSQL - Veri Tabanı</p>
+
 
 ### <p align="center">📌 Ekran Görüntüleri 📌</p><br>
 ![AnaSayfa](https://github.com/oozen9/Hastane-Yonetim-Sistemi-MSSQL/blob/main/ScreenShots/1.png)<br>
